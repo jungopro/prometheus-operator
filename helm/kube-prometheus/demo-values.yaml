@@ -17,4 +17,4 @@ grafana:
     - custom-datasources
   extraVars:
   - name: GF_INSTALL_PLUGINS
-    value: "grafana-azure-monitor-datasource,digrich-bubblechart-panel,grafana-clock-panel,grafana-piechart-panel,    jdbranham-diagram-panel"
+    value: "grafana-azure-monitor-datasource,digrich-bubblechart-panel,grafana-clock-panel,grafana-piechart-panel, jdbranham-diagram-panel"
