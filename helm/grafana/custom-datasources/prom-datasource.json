@@ -1,0 +1,8 @@
+{
+  "name": "Istio-Prom",
+  "access": "proxy",
+  "basicAuth": false,
+  "type": "prometheus",
+  "url": "http://prometheus.istio-system.svc.cluster.local:9090",
+  "isDefault": false
+}

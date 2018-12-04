@@ -1,0 +1,19 @@
+{
+  "name": "Azure",
+  "access": "proxy",
+  "basicAuth": false,
+  "type": "grafana-azure-monitor-datasource",
+  "url": "/api/datasources/proxy/2",
+  "isDefault": false,
+  "jsonData": {
+    "cloudName": "azuremonitor",
+    "subscriptionId": "",
+    "tenantId": "",
+    "clientId": "",
+    "azureLogAnalyticsSameAs": true,
+    "logAnalyticsDefaultWorkspace": ""
+  },
+  "secureJsonData": {
+    "clientSecret": ""
+  }
+}
